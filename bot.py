@@ -123,12 +123,12 @@ GAMING_TASKS = [
 
 # ─── GIF SEARCH TERMS ─────────────────────────────────────────────────────────
 
-MORNING_GIF_TERMS = ["good morning cute", "morning sparkle", "good morning flowers"]
-MIDDAY_GIF_TERMS = ["you got this girl", "midday motivation cute", "girl power cute"]
-NIGHT_GIF_TERMS = ["goodnight cute", "goodnight stars", "sweet dreams cute"]
-TASK_GIF_TERMS = ["lets go girl", "you can do it cute", "girl boss cute", "sparkle motivation"]
-WEEKLY_GIF_TERMS = ["big achievement cute", "girl celebrating", "you did it sparkle"]
-GAMING_GIF_TERMS = ["gaming girl", "lets go gaming", "girl gamer cute", "gaming motivation"]
+MORNING_GIF_TERMS = ["transgender pride", "trans girl morning", "pride flag sparkle", "trans joy"]
+MIDDAY_GIF_TERMS = ["trans pride", "girl power transgender", "trans woman confident", "pride colors"]
+NIGHT_GIF_TERMS = ["transgender goodnight", "pride night sky", "trans girl cozy", "pride stars"]
+TASK_GIF_TERMS = ["trans girl aesthetic", "transgender beautiful", "pride girl", "trans feminine"]
+WEEKLY_GIF_TERMS = ["transgender celebration", "trans pride sparkle", "pride achievement", "trans joy celebrate"]
+GAMING_GIF_TERMS = ["trans girl gaming", "pride gaming", "transgender gamer", "girl gamer pride"]
 
 # ──────────────────────────────────────────────────────────────────────────────
 
